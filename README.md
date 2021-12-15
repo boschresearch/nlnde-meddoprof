@@ -5,7 +5,7 @@ This repository holds the companion code for the system reported in the paper:
 
 Boosting Transformers for Job Expression Extraction and Classification in a Low-Resource Setting by Lukas Lange, Heike Adel and Jannik Strötgen. In Proceedings of the Iberian Language Evaluation Forum (IberLEF) 2021.
 
-The paper can be found ([here](http://ceur-ws.org/Vol-2943/meddoprof_paper1.pdf)). The code allows the users to reproduce and extend the results reported in the paper. 
+The paper can be found [(here)](http://ceur-ws.org/Vol-2943/meddoprof_paper1.pdf). The code allows the users to reproduce and extend the results reported in the paper. 
 Please cite the above paper when reporting, reproducing or extending the results.
 
     @inproceedings{lange-etal-2021-meddoprof,
@@ -86,8 +86,9 @@ Finally, convert the predictions to BRAT format
 ### Pretrained XLM-R Models
 As part of this work, two XLM-R were adapted to the Spanish general (1) and clinical domain (2). 
 The models can be found here: 
-* Spanish clinical XLM-R [link](https://huggingface.co/llange/xlm-roberta-large-spanish)
-* Spanish general XLM-R [link](https://huggingface.co/llange/xlm-roberta-large-spanish-clinical)
+* Spanish clinical XLM-R [(link)](https://huggingface.co/llange/xlm-roberta-large-spanish)
+* Spanish general XLM-R [(link)](https://huggingface.co/llange/xlm-roberta-large-spanish-clinical)
+In addition, we trained an English clinical XLM-R [(link)](https://huggingface.co/llange/xlm-roberta-large-english-clinical). More information can be found [here](https://github.com/boschresearch/clin_x)
     
 ## License
 The NLNDE MEDDOPROF code is open-sourced under the AGPL-3.0 license. See the
