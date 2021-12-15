@@ -88,7 +88,7 @@ As part of this work, two XLM-R were adapted to the Spanish general (1) and clin
 The models can be found here: 
 * Spanish clinical XLM-R [(link)](https://huggingface.co/llange/xlm-roberta-large-spanish)
 * Spanish general XLM-R [(link)](https://huggingface.co/llange/xlm-roberta-large-spanish-clinical)
-* 
+
 In addition, we trained an English clinical XLM-R [(link)](https://huggingface.co/llange/xlm-roberta-large-english-clinical). More information can be found [here](https://github.com/boschresearch/clin_x)
     
 ## License
