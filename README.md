@@ -1,6 +1,12 @@
 
 
 # NLNDE at MEDOPROF
+
+**NEW** the language models are public and can be found here: 
+* Spanish clinical XLM-R [(link)](https://huggingface.co/llange/xlm-roberta-large-spanish)
+* Spanish general XLM-R [(link)](https://huggingface.co/llange/xlm-roberta-large-spanish-clinical)
+
+
 This repository holds the companion code for the system reported in the paper:
 
 Boosting Transformers for Job Expression Extraction and Classification in a Low-Resource Setting by Lukas Lange, Heike Adel and Jannik Strötgen. In Proceedings of the Iberian Language Evaluation Forum (IberLEF) 2021.
@@ -95,5 +101,5 @@ In addition, we trained an English clinical XLM-R [(link)](https://huggingface.c
 The NLNDE MEDDOPROF code is open-sourced under the AGPL-3.0 license. See the
 [LICENSE](LICENSE) file for details.
 
-For a list of other open source components included in Joint-Anonymization-NER, see the
+For a list of other open source components included in NLNDE-MEDDOPROF, see the
 file [3rd-party-licenses.txt](3rd-party-licenses.txt).
