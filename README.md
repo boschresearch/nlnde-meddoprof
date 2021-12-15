@@ -84,8 +84,10 @@ Finally, convert the predictions to BRAT format
     python step_6_convert_predictions_to_brat.py --input predictions/ensemble1 --test_files data/bio/test/ner/ --output predictions_brat/ensemble1
     
 ### Pretrained XLM-R Models
-As part of this work, two XLM-R were adapted to the Spanish general (1) and clinical domain (2). These models are currently being further evaluted and will be released in the future. Updates will be posted on this page. 
-
+As part of this work, two XLM-R were adapted to the Spanish general (1) and clinical domain (2). 
+The models can be found here: 
+* Spanish clinical XLM-R [link](https://huggingface.co/llange/xlm-roberta-large-spanish)
+* Spanish general XLM-R [link](https://huggingface.co/llange/xlm-roberta-large-spanish-clinical)
     
 ## License
 The NLNDE MEDDOPROF code is open-sourced under the AGPL-3.0 license. See the
